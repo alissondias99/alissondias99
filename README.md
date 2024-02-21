@@ -1,7 +1,7 @@
 ## Olá, me chamo ALisson Dias
-- 🔭 Estou procurando vagas para estágios
-- 🌱 Atualmente estou aprendendo, JS, HTML5 e CSS3
-- 🤓 Eu não tenho muita experiência, mas estou trabalhando para adquiri-la.
+-  Estou procurando vagas de emprego e(ou) estágios.
+- Tenho conhecimento de desenvolvimento web com HTML, CSS, Javascript e PHP.
+- Me aprofudando atualmente em Python, Java e C.
 
 <div align="center">
   <a href="https://github.com/alissondias99">
