@@ -1,7 +1,7 @@
-## Olá, me chamo ALisson Dias
--  Estou procurando vagas de emprego e(ou) estágios.
-- Tenho conhecimento de desenvolvimento web com HTML, CSS, Javascript e PHP.
-- Me aprofudando atualmente em Python, Java e C.
+## Hello, my name is ALisson Dias
+-  I'm looking for jobs or intershps opportunites
+- I have already developed some web applications using HTML, CSS, JavaScript, and PHP
+- Nowdays I'm laerning Python, Java and C.
 
 <div align="center">
   <a href="https://github.com/alissondias99">
@@ -14,6 +14,10 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
   
   ##
