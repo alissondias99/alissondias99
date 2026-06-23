@@ -1,7 +1,10 @@
-## Hello, my name is ALisson Dias
--  I'm looking for jobs or intershps opportunites
-- I have already developed some web applications using HTML, CSS, JavaScript, and PHP
-- Nowdays I'm laerning Python, Java and C.
+## ALisson Dias de Oliveira
+- Estudando programação a algum tempo, já passei por Web (HTML, CSS e JavaScrip), python (Django, streamlit, Pygame e NumPy), C/C++ e java.
+- Particiei de projeto de faculdade:
+  - Feira Livre: https://github.com/alissondias99/Projeto_Feira - Participação: destes, implementações, ideias de adições e correção de bugs
+  - EducaGames: https://github.com/alissondias99/educagame - Participação: desenvolvimento do jogo soletrando e testes
+    
+- Estou começando na área de DevOps, porque me interessei na cultura involvida dentro dela. 
 
 <div align="center">
   <a href="https://github.com/alissondias99">
@@ -23,4 +26,4 @@
   ##
   
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-dias-80970a221/)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-dias-4949103a4/)
